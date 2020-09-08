@@ -3,6 +3,7 @@
 ## Resources Used
 * Python Version: 3.7
 * Packages: pandas, pandas datareader, matplotlib
+* [How to get Yahoo Stock Data using pandas datareader](https://www.youtube.com/watch?v=v66K_y3-ezY)
 
 ## Data Source 
 The data was obtained from yahoo using datareader.
