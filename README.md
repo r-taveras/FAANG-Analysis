@@ -21,7 +21,7 @@ FAANG refers Facebook, Apple, Amazon, Netflix and Google. These companies are co
 * Netflix
 * Google
 
-Importotant to note that since 2015, Amazon and google have outperformed the rest of the stocks by a large margin. Utilizing scatter matrices, heatmaps, and calculating values such as average and standard deviation the correlation between the daily returns and risk of the stocks can be analyzed. The S&P 500 is the safest investment of but also provides the lowest average return. Netflix is the riskiest investment but also offers the highest average return. All of FAANG has a positive correlation with the performance of the S&P 500 because they have such a huge market share.
+Important to note that since 2015, Amazon and google have outperformed the rest of the stocks by a large margin. Utilizing scatter matrices, heatmaps, and calculating values such as average and standard deviation the correlation between the daily returns and risk of the stocks can be analyzed. The S&P 500 is the safest investment of but also provides the lowest average return. Netflix is the riskiest investment but also offers the highest average return. All of FAANG has a positive correlation with the performance of the S&P 500 because they have such a huge market share.
 
 ## Next Steps
 An interesting next project would be to calculate the optimal portfolio of FAANG stocks for the greatest return possible from the period of 2015 to 2020.
